@@ -2,11 +2,10 @@
 
 <p align="center">The projects I've contributed to, with a link to every merged pull request.</p>
 
-
+<br>
 
 <h2 align="center">Mermaid.js</h2>
 
-<br>
 
 <table>
   <tr>
@@ -41,7 +40,6 @@
 
 <h2 align="center">FarmData2</h2>
 
-<br>
 
 <table>
   <tr>
@@ -76,7 +74,7 @@
 
 <h2 align="center">Contact</h2>
 
-<br>
+
 
 <p align="center">
   <a href="https://shahirahmed.com/" title="Visit My Website"><img src="https://img.shields.io/badge/-Portfolio-15AABF?style=flat&logo=semanticui&logoColor=white" alt="Portfolio" vspace="4"></a>
