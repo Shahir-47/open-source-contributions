@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-<p><a href="https://github.com/mermaid-js/mermaid/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on Mermaid.js</a></p>
+<p><a href="https://github.com/mermaid-js/mermaid/pulls?q=is%3Apr+involves%3AShahir-47+is%3Amerged">Every pull request I've opened on Mermaid.js</a></p>
 
 <details>
 <summary>Contributor graph screenshot</summary>
@@ -48,7 +48,7 @@
       <br>
       <p>
         <a href="https://github.com/FarmData2/FarmData2/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-2nd-4A8A3C?style=flat&logo=github&logoColor=white" alt="Contributor rank: 2nd" vspace="10"></a>
-        <a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed"><img src="https://img.shields.io/badge/merged_pull_requests-25-4A8A3C?style=flat" alt="25 merged pull requests" vspace="10"></a>
+        <a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Amerged"><img src="https://img.shields.io/badge/merged_pull_requests-25-4A8A3C?style=flat" alt="25 merged pull requests" vspace="10"></a>
         <img src="https://img.shields.io/badge/lines_added-14%2C000%2B-4A8A3C?style=flat" alt="14,000+ lines added" vspace="10">
       </p>
       <p>FarmData2 is open source record keeping that vegetable farms use for organic certification, funded by the National Science Foundation. I worked on it for a year as an intern and ended up as its 2nd top contributor, with 28 commits and 14,000+ lines added.</p>
@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-<p><a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on FarmData2</a></p>
+<p><a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Amerged">Every pull request I've opened on FarmData2</a></p>
 
 <details>
 <summary>Contributor graph screenshot</summary>
