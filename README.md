@@ -1,57 +1,88 @@
-# 🌟 Shahir Ahmed: Open Source Contributions
+<h1 align="center">Open Source Contributions</h1>
 
-This repo highlights my open source work in [Mermaid.js](https://github.com/mermaid-js/mermaid) and [FarmData2](https://github.com/FarmData2/FarmData2).
+<p align="center">The projects I've contributed to, with a link to every merged pull request.</p>
 
----
+<br>
 
-## 🧜‍♂️ Mermaid.js
+<h2 align="center">Mermaid.js</h2>
 
-**Contributor graph (may take time to load):**
-[https://github.com/mermaid-js/mermaid/graphs/contributors](https://github.com/mermaid-js/mermaid/graphs/contributors)
+<br>
 
-* Ranked #25 among 600+ contributors with 76 commits.
-* The graph may take several seconds to load. You may need to scroll or use Ctrl+F to find `Shahir-47`.
-* Screenshot below for quick reference.
+<table>
+  <tr>
+    <td width="80" align="center" valign="top"><br><a href="https://github.com/mermaid-js/mermaid"><img src="assets/logos/mermaid.png" width="48" alt="Mermaid.js logo"></a></td>
+    <td valign="top">
+      <br>
+      <p>
+        <a href="https://github.com/mermaid-js/mermaid/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-25th_of_600%2B-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Contributor rank: 25th of 600+" vspace="10"></a>
+        <a href="https://npmtrends.com/mermaid"><img src="https://img.shields.io/npm/dw/mermaid?style=flat&label=npm%20downloads&color=FF3670" alt="Mermaid.js weekly npm downloads" vspace="10"></a>
+        <a href="https://github.com/mermaid-js/mermaid/stargazers"><img src="https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=stars&color=FF3670" alt="Mermaid.js GitHub stars" vspace="10"></a>
+      </p>
+      <p>Mermaid.js turns a few lines of text into diagrams. GitHub and Microsoft both use it, so every change has to pass CI and a maintainer's review before it's merged. Three of mine made it in, across 76 commits.</p>
+      <ul>
+        <li><p><a href="https://github.com/mermaid-js/mermaid/pull/6475">Data labels that fit inside the bars of XY charts</a><br>They resize and reposition themselves instead of overflowing, in both orientations.</p></li>
+        <li><p><a href="https://github.com/mermaid-js/mermaid/pull/6274">Word wrapping for journey diagram legends</a><br>Long labels used to run into the diagram. Now they wrap at a maximum width.</p></li>
+        <li><a href="https://github.com/mermaid-js/mermaid/pull/6225">Title color, font, and size options for journey diagrams</a><br>Set through the YAML config at the top of the diagram.<br>&nbsp;</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-![image](https://github.com/user-attachments/assets/a7150b8e-afb1-45fd-85da-2fc0556e1a49)
+<p align="center"><a href="https://github.com/mermaid-js/mermaid/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on Mermaid.js</a></p>
 
-### Merged Pull Requests (3 total)
+<details>
+<summary>Contributor graph screenshot</summary>
+<br>
+<p>The <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">live graph</a> takes a few seconds to load, and you may need to scroll or search the page for Shahir-47.</p>
+<img src="https://github.com/user-attachments/assets/a7150b8e-afb1-45fd-85da-2fc0556e1a49" alt="Mermaid.js contributor graph with Shahir-47 ranked 25th">
+</details>
 
-* [feat: Dynamically Render Data Labels Within Bar Charts (#6475)](https://github.com/mermaid-js/mermaid/pull/6475)
-  Added dynamic data labels to bar charts that resize and reposition, preventing overflow and supporting both orientations.
+<br>
 
-* [fix: Prevent Legend Labels from Overlapping Diagram Elements (#6274)](https://github.com/mermaid-js/mermaid/pull/6274)
-  Prevented legend labels from overlapping diagrams with max label width and smart word wrapping.
+<h2 align="center">FarmData2</h2>
 
-* [feat: Add support for styling Journey Diagram title (#6225)](https://github.com/mermaid-js/mermaid/pull/6225)
-  Made it possible to customize the color, font, and size of Journey Diagram titles.
+<br>
 
-Full list of closed PRs [here](https://github.com/mermaid-js/mermaid/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed).
+<table>
+  <tr>
+    <td width="80" align="center" valign="top"><br><a href="https://github.com/FarmData2/FarmData2"><img src="assets/logos/farmdata2.png" width="48" alt="FarmData2 logo"></a></td>
+    <td valign="top">
+      <br>
+      <p>
+        <a href="https://github.com/FarmData2/FarmData2/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-2nd-4A8A3C?style=flat&logo=github&logoColor=white" alt="Contributor rank: 2nd" vspace="10"></a>
+        <a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed"><img src="https://img.shields.io/badge/merged_pull_requests-25-4A8A3C?style=flat" alt="25 merged pull requests" vspace="10"></a>
+        <img src="https://img.shields.io/badge/lines_added-14%2C000%2B-4A8A3C?style=flat" alt="14,000+ lines added" vspace="10">
+      </p>
+      <p>FarmData2 is open source record keeping that vegetable farms use for organic certification, funded by the National Science Foundation. I worked on it for a year as an intern and ended up as its 2nd top contributor, with 28 commits and 14,000+ lines added.</p>
+      <ul>
+        <li><p>Built the transactional REST APIs, on Node.js and PostgreSQL, that log crops automatically</p></li>
+        <li><p>Moved the form components to Vuex, which cut how long pages took to load</p></li>
+        <li>Added end to end tests in Cypress so the forms keep working as the project grows<br>&nbsp;</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<p align="center"><a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on FarmData2</a></p>
 
-## 🥕 FarmData2
+<details>
+<summary>Contributor graph screenshot</summary>
+<br>
+<p>The <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">live graph</a> takes a few seconds to load, and you may need to scroll or search the page for Shahir-47.</p>
+<img src="https://github.com/user-attachments/assets/116b894e-e5f4-4a63-a689-8280e9c87461" alt="FarmData2 contributor graph with Shahir-47 ranked 2nd">
+</details>
 
-**Contributor graph (may take time to load):**
-[https://github.com/FarmData2/FarmData2/graphs/contributors](https://github.com/FarmData2/FarmData2/graphs/contributors)
+<br>
 
-* Ranked #2 on FarmData2 with 28 commits, 14,000+ lines added, and 25 merged pull requests.
-* The graph may take a few seconds to load. You may need to scroll or search for `Shahir-47`.
-* Screenshot below for quick reference.
+<h2 align="center">Contact</h2>
 
-![image](https://github.com/user-attachments/assets/116b894e-e5f4-4a63-a689-8280e9c87461)
+<br>
 
-Too many merged PRs to list here. You can view all of my closed PRs [here](https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed).
+<p align="center">
+  <a href="https://shahirahmed.com/" title="Visit My Website"><img src="https://img.shields.io/badge/-Portfolio-15AABF?style=flat&logo=semanticui&logoColor=white" alt="Portfolio" vspace="4"></a>
+  <a href="https://github.com/Shahir-47" title="My GitHub Profile"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" vspace="4"></a>
+  <a href="https://devpost.com/Shahir-47" title="See My Devpost Projects"><img src="https://img.shields.io/badge/-Devpost-0096C7?style=flat&logo=devpost&logoColor=white" alt="Devpost" vspace="4"></a>
+  <a href="mailto:shahir@shahirahmed.com" title="Send an Email"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Me" vspace="4"></a>
+</p>
 
----
-
-## Contact
-
-* [GitHub](https://github.com/Shahir-47)
-* [Portfolio](https://shahirahmed.com/)
-* [Devpost](https://devpost.com/Shahir-47)
-* Email: [shahir@shahirahmed.com](mailto:shahir@shahirahmed.com)
-
----
-
-Thanks for checking out my open source work!
+<p align="center"><i>Thanks for checking out my open source work!</i></p>
