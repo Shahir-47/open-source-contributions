@@ -2,7 +2,7 @@
 
 <p align="center">The projects I've contributed to, with a link to every merged pull request.</p>
 
-<br>
+
 
 <h2 align="center">Mermaid.js</h2>
 
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/mermaid-js/mermaid/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on Mermaid.js</a></p>
+<p><a href="https://github.com/mermaid-js/mermaid/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on Mermaid.js</a></p>
 
 <details>
 <summary>Contributor graph screenshot</summary>
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on FarmData2</a></p>
+<p><a href="https://github.com/FarmData2/FarmData2/pulls?q=is%3Apr+involves%3AShahir-47+is%3Aclosed">Every pull request I've opened on FarmData2</a></p>
 
 <details>
 <summary>Contributor graph screenshot</summary>
