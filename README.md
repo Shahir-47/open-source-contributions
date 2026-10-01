@@ -80,7 +80,7 @@
   <a href="https://shahirahmed.com/" title="Visit My Website"><img src="https://img.shields.io/badge/-Portfolio-15AABF?style=flat&logo=semanticui&logoColor=white" alt="Portfolio" vspace="4"></a>
   <a href="https://github.com/Shahir-47" title="My GitHub Profile"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" vspace="4"></a>
   <a href="https://devpost.com/Shahir-47" title="See My Devpost Projects"><img src="https://img.shields.io/badge/-Devpost-0096C7?style=flat&logo=devpost&logoColor=white" alt="Devpost" vspace="4"></a>
-  <a href="mailto:shahir@shahirahmed.com" title="Send an Email"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Me" vspace="4"></a>
+  <a href="mailto:ka4121@nyu.edu" title="Send an Email"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Me" vspace="4"></a>
 </p>
 
 <p align="center"><i>Thanks for checking out my open source work!</i></p>
